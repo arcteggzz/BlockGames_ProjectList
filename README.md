@@ -1,5 +1,23 @@
 # BlockGames_ProjectList
-Links to all commits of all projects worked on during the BlockGames Internship Progra,=m
+Links to all commits of all projects worked on during the BlockGames Internship Program
+
+
+# PROJECT 03_SIMPLE VOTING SYSTEM
+Contribution 1: Created the initial Smart Contract and added first functionalities
+Description: Created the functions in the smart contract for adding a voter, candidate and vreating stakeholders and assigned roles and modifiers.
+Link to Commit: https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/commit/b7a1e3bffc646fc16b02448b4632500514dfd24b
+
+Contribution 2: Updated the functions for the Admin Page functionalities.
+Description: Added the javascript functions to run the Smart contract functions and link them with the frontEnd. This was done with Moralis. All functions for the admin page of the project was attended to.
+Link to Commit: https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/3/commits/5442dd40e6ea27e6fdc7fb8b43b01d73fcead63b#diff-a046d278310dabfef4fb2c1200d36b5313aa223a37111fdc49e3616ca32d1e18
+
+Contribution 3: Added the Voting functionality to the Voting Page
+Description: Linked the frontEnd to the voting function in the smart contract. Stakeholders can now vote
+Link to Commit: 
+
+Contribution 4: Added the Voting functionality to the Results Page
+Description: Linked the frontEnd to the Reults function in the smart contract. Stakeholders can now view results as required by the Chairman
+Link to Commit: 
 
 # PROJECT 02_DECENTRALIZED LIBRARY
 Contribution 1: Created the initial Smart Contract and added first functionalities
