@@ -13,11 +13,11 @@ Link to Commit: https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/3/
 
 Contribution 3: Added the Voting functionality to the Voting Page
 Description: Linked the frontEnd to the voting function in the smart contract. Stakeholders can now vote
-Link to Commit: 
+Link to Commit: https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/commit/ddc9c304262a92c77140bb35658f010c25b20f78
 
 Contribution 4: Added the Voting functionality to the Results Page
 Description: Linked the frontEnd to the Reults function in the smart contract. Stakeholders can now view results as required by the Chairman
-Link to Commit: 
+Link to Commit: https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/commit/bf4db588a8ec749617e41eb59cea6ebfee7601c0
 
 # PROJECT 02_DECENTRALIZED LIBRARY
 Contribution 1: Created the initial Smart Contract and added first functionalities
