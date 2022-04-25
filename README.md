@@ -46,3 +46,7 @@ Description: Most of the work was done offline, hence there is only one commit t
 I had assistance from https://github.com/IhuomaO (Ihuoma) and https://github.com/degencodebeast (Chukwuma David) in creating the final functions for the token
 price and buying a reward.
 Link to Commit: https://github.com/IhuomaO/Nestcoin-buterin/commit/049e8b01ed277624c6fe31c35fa125c3ed71d1bb
+
+
+
+https://meet.google.com/czy-geon-ajo
