@@ -50,3 +50,9 @@ Link to Commit: https://github.com/IhuomaO/Nestcoin-buterin/commit/049e8b01ed277
 
 
 https://meet.google.com/czy-geon-ajo
+
+
+0x30D2BD1fcd9bC95B775BC84C5be78d4f7a84E895
+0x06c8E93f24Af64827856228B7169E434d5934195
+0x9909f437f6AADA6102E0Ec9b69b3926bbB5Cf0A9
+0x75485d880B12109bED22e597649C20bC67c287c5
